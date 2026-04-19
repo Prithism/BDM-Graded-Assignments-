@@ -1,0 +1,11 @@
+Employee name,Year of experience,Appraisal 1,Appraisal 2,Appraisal 3,Skills,Key projects,Duration in the current role,Bench duration,When the candidate will be available
+Abhijit,4,0.75,1,0.85,"JAVA,C,R","Vega,Vision+",1,0,2024-08-26 0:00:00
+Lavanya,5.5,1,0.85,0.8,"C,JAVA,TABLEU","Vessel planning,Shipping scheduling,Vision+,Churn project",1,1,2024-09-20 0:00:00
+Siva,3,0.95,0.95,0.75,"TABLEU,JAVA,C","CRM,Vega,Churn,WFO",2,2,2024-08-21 0:00:00
+Akanksha,7.5,0.75,0.7,0.95,"C++/C#,R,TABLEU,C","WFO,Churn",3,0,2024-08-28 0:00:00
+Sazid,6,0.95,0.85,0.85,"C,TABLEU","Churn,Vision+,Vessel planning",5,2,2024-09-20 0:00:00
+Anuj,3,0.9,0.7,0.95,"TABLEU,C++/C#","SVO,Daffodil,WFO,Vega",1,0,2024-08-21 0:00:00
+Praveen,5.5,0.7,0.8,0.95,"PYTHON,JAVA","Shipping scheduling,CRM,Vega,Churn project",1,0.5,2024-08-29 0:00:00
+Esha,6,1,1,0.9,"JAVA,C,R","CRM,WFO,Vision+,SVO",5,2,2024-09-13 0:00:00
+Nanda,3.5,0.7,0.7,0.8,"TABLEU,C","WFO,SVO,Churn,CRM",3,0.5,2024-08-28 0:00:00
+Shalini,2.5,0.9,0.7,0.95,"C++/C#,JAVA","Daffodil,Shipping scheduling",1,0,2024-09-22 0:00:00
